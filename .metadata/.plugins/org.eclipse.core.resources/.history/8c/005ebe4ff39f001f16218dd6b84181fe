@@ -1,0 +1,5 @@
+package com.ust.jwt.service;
+
+public class JwtService {
+
+}
